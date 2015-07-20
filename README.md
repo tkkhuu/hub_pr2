@@ -1,6 +1,6 @@
 # hub_pr2
-Code for detecting signal from the sensors using Raspberry Pi and ROS
-Instruction on running the code:
+# Code for detecting signal from the sensors using Raspberry Pi and ROS
+# Instruction on running the code:
 
 	1) Running the master:
 		- Log into the master machine with ROS, source the setup.bash file
