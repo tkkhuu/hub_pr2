@@ -24,5 +24,14 @@ Code for detecting signal from the sensors using Raspberry Pi and ROS, instructi
 		- Run "export ROS_MASTER_URI=http://<IP address of the master machine>:11311
 		- Run "export ROS_IP=<IP address of the Pi"
 		- The script signal_detector.py should already be in the package hub_pr2, so we only have to run "rosrun hub_pr2 signal_detector.py"
+	
+	3) The pins used on the Pi that detects the signals from the sensors are: 5, 12, 13, 16, 20, 26
+	4) The usernames and password of the RPis are:
+		- Pi 1:	username: pi
+			password: hereshow
+		- Pi 2: username: pi
+			password: raspberry
+
+		
 
 		
